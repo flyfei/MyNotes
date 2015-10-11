@@ -1,4 +1,4 @@
-# MyNotes
+# Notes
 
 ## Label
 
