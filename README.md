@@ -143,10 +143,9 @@ Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAc
 * `Android`
 * `Framework`
 * `DB`
-* `Image
-* 
-* `
+* `Image`
 * `Http`
+* `Download`
 
 
 ### [SoundRecorder](https://github.com/MiCode/SoundRecorder)
