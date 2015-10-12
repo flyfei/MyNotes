@@ -16,6 +16,9 @@
 * `APP`
 * `Website`
 * `Framework`
+* `FastDevelopment`
+* `Demo`
+* `BookCode`
 
 ### Style
 * `MaterialDesign`
@@ -25,54 +28,105 @@
 * `Mp3 Player`
 * `SoundRecorder` （录音机）
 * `CodeReview`
-* `Crash`
+* `Email`
 
-### Control（控件）
-
-* `Menu`
-* `ImageView`
-* `PullToRefresh`
-* `CustomView`
-* `View`
 
 ### Other
 
 * `DB`
 * `Http`
-
+* `Log`
+* `Download`
+* `Crash`
+* `Image`
 
 ## Project
 
-### [PhotoView](https://github.com/chrisbanes/PhotoView)
+### [ThinkAndroid](https://github.com/white-cat/ThinkAndroid)
 
-Implementation of ImageView for Android that supports zooming, by various touch gestures.
-
-* `Android`
-* `ImageView`
-* `View`
-
-<img src="https://camo.githubusercontent.com/cf5bfb6d896604aa9156e3e1beee89e0754de7db/68747470733a2f2f7261772e6769746875622e636f6d2f636872697362616e65732f50686f746f566965772f6d61737465722f6865616465725f677261706869632e706e67" width="400">
-
-### [android-menudrawer](https://github.com/SimonVT/android-menudrawer)
+ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议发布的Android开发框架，其开发宗旨是简单、快速的进行 Android应用程序的开发，包含Android mvc、简易sqlite orm、ioc模块、封装Android httpclitent的http模块, 具有快速构建文件缓存功能，无需考虑缓存文件的格式，都可以非常轻松的实现缓存，它还基于文件缓存模块实现了图片缓存功能， 在android中加载的图片的时候，对oom的问题，和对加载图片错位的问题都轻易解决。他还包括了一个手机开发中经常应用的实用工具类， 如日志管理，配置文件管理，android下载器模块，网络切换检测等等工具。
 
 * `Android`
-* `Menu`
-* `View`
+* `Framework`
+* `Http`
+* `Image`
+* `DB`
+* `Log`
+* `Download`
 
-### [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh)
+### [picasso](https://github.com/square/picasso)
 
-* `Android`
-* `PullToRefresh`
-* `View`
-
-<img src="https://github.com/chrisbanes/Android-PullToRefresh/raw/master/header_graphic.png" width="400">
-
-### [acra](https://github.com/ACRA/acra)
-
-Application Crash Reports for Android
+A powerful image downloading and caching library for Android http://square.github.io/picasso/
 
 * `Android`
-* `Crash`
+* `FastDevelopment`
+* `Http`
+* `Image`
+
+<img src="https://github.com/square/picasso/raw/master/website/static/sample.png" width="500">
+
+### [cw-omnibus](https://github.com/commonsguy/cw-omnibus)
+
+Source code to omnibus edition of _The Busy Coder's Guide to Android Development_ http://commonsware.com/Android
+
+* `Android`
+* `BookCode`
+
+### [k-9](https://github.com/k9mail/k-9)
+
+K-9 Mail – Advanced Email for Android
+
+* `Android`
+* `Email`
+* `App`
+
+### [AndroidUtils](https://github.com/pardom/AndroidUtils/tree/master/src/main/java/com/michaelpardo)
+
+* `Android`
+* `FastDevelopment`
+
+### [retrofit](https://github.com/square/retrofit)
+
+A type-safe HTTP client for Android and Java
+
+* `Android`
+* `Http`
+
+### [android_volley_examples](https://github.com/ogrebgr/android_volley_examples)
+
+Project with examples how to use the new Volley networking framework
+
+* `Android`
+* `Demo`
+
+### [androidInject](https://github.com/wangjiegulu/androidInject)
+
+使用注解来简化android开发, Use annotations inject to simplify the development of android
+
+* `Android`
+* `FastDevelopment`
+
+### [LetterDreamer](https://github.com/Adoni/LetterDreamer)
+
+这是一个基于Android的小应用，我希望它可以让用户把自己写字的轨迹留下，生成GIF图片，并可以分享到SNS上，可以选择画笔、背景，可以添加小组件（如一个邮戳等）
+
+* `Android`
+* `App`
+
+### [android-async-http](https://github.com/loopj/android-async-http)
+
+An Asynchronous HTTP Library for Android http://loopj.com/android-async-http/
+
+* `Android`
+* `Framework`
+* `Http`
+ 
+### [PocketHub](https://github.com/pockethub/PocketHub)
+
+PocketHub Android App
+
+* `Android`
+
 
 ### [sonarqube](https://github.com/SonarSource/sonarqube)
 
@@ -89,7 +143,9 @@ Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAc
 * `Android`
 * `Framework`
 * `DB`
-* `ImageView`
+* `Image
+* 
+* `
 * `Http`
 
 
