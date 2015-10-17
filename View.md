@@ -26,12 +26,23 @@
 * `Tab`
 * `ActionBar`
 * `View`
+* `Banner`
 
 
 * `Animation`
 
 
 ## Project
+
+### [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)
+
+An amazing and convenient Android image slider.
+
+* `Android`
+* `ImageView`
+* `Banner`
+
+<img src="https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966" width="300">
 
 ### [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)
 
