@@ -19,6 +19,7 @@
 * `FastDevelopment`
 * `Demo`
 * `BookCode`
+* `AndroidStudioPlug`
 
 ### Style
 * `MaterialDesign`
@@ -41,6 +42,51 @@
 * `Image`
 
 ## Project
+
+### [androidannotations](https://github.com/stars?direction=desc&page=9&sort=created)
+
+Fast Android Development. Easy maintainance. http://androidannotations.org
+
+* `Android`
+* `FastDevelopment`
+
+### [android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny)
+
+Android Studio plug-in for generating ButterKnife injections from selected layout XML.
+
+* `Android`
+* `AndroidStudioPlug`
+* `FastDevelopment`
+
+<img src="https://github.com/avast/android-butterknife-zelezny/raw/master/img/zelezny_animated.gif" width="500">
+
+### [iosched](https://github.com/google/iosched)
+
+The Google I/O 2015 Android App https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched
+
+* `Google`
+* `Android`
+* `APP`
+* `MaterialDesign`
+
+
+### [appsly-android-rest](https://github.com/47deg/appsly-android-rest)
+
+An Android client library for RESTful based web services.
+
+* `Android`
+* `Http`
+* `Demo`
+
+<img src="https://camo.githubusercontent.com/b06856dfaadcd66272980fdd1895717f94e4a4da/687474703a2f2f646c2e636c696e6b657268712e636f6d2f6173736574732f62616467652f636c696e6b65722d62616467655f313235783132352e706e67" width="200">
+
+### [netty](https://github.com/netty/netty)
+
+Netty project - an event-driven asynchronous network application framework http://netty.io/
+
+* `Android`
+* `Framework`
+* `Http`
 
 ### [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)
 

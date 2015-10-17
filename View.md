@@ -22,17 +22,71 @@
 * `Dialog`
 * `Notification`
 * `Toast`
+* `TextView`
 * `Progress`
 * `Tab`
 * `ActionBar`
 * `View`
 * `Banner`
+* `Discrollview`(实现在滚动Android界面时，界面的部件会逐渐淡出、平移或者缩放。)
+* `ViewPager`
 
 
 * `Animation`
 
 
 ## Project
+
+### [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager)
+
+An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers, two more steps, and you're good to go!
+
+* `Android`
+* `ViewPager`
+
+
+### [Titanic](https://github.com/RomainPiel/Titanic)
+
+Android experiment showing a sinking TextView
+
+* `Android`
+* `TextView`
+
+<img src="https://github.com/RomainPiel/Titanic/blob/master/titanic.gif" width="300">
+
+### [Shimmer-android](https://github.com/RomainPiel/Shimmer-android)
+
+An Android TextView with a shimmering effect
+
+* `Android`
+* `TextView`
+
+### [android-flat-button](https://github.com/hoang8f/android-flat-button)
+
+FButton - a flat button library for Android
+
+* `Android`
+* `Button`
+* Flat
+
+<img src="https://raw.githubusercontent.com/hoang8f/android-flat-button/master/screenshot/screenshot.gif" width="300">
+
+### [NotBoringActionBar](https://github.com/flavienlaurent/NotBoringActionBar)
+
+News Stand app makes the ActionBar not boring!
+
+* `Android`
+* `ActionBar`
+
+<img src="https://camo.githubusercontent.com/65f2d44e0e5064369aec8ee41838bd073e695975/68747470733a2f2f7261772e6769746875622e636f6d2f666c617669656e6c617572656e742f4e6f74426f72696e67416374696f6e4261722f6d61737465722f67726170686963732f6e6f74626f72696e6761622e676966" width="300">
+
+
+### [discrollview](https://github.com/flavienlaurent/discrollview)
+
+Scroll + discover = DiscrollView
+
+* `Android`
+* `Discrollview`
 
 ### [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)
 
