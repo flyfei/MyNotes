@@ -7,10 +7,14 @@
 * `Google`
 * `Facebook`
 * `XiaoMi`
+* `ChatSecure`
 
 ### Language
 * `Android`
 * `Swift`
+* `IOS`
+* `Server`
+* `PHP`
 
 ### Project type
 * `APP`
@@ -30,6 +34,8 @@
 * `SoundRecorder` （录音机）
 * `CodeReview`
 * `Email`
+* `XMPP`
+* `PUSH`
 
 
 ### Other
@@ -42,6 +48,139 @@
 * `Image`
 
 ## Project
+
+### [Workerman](https://github.com/walkor/Workerman)
+
+An asynchronous event driven PHP framework for easily building fast, scalable network applications. Supports HTTP, Websocket and other custom protocols. Supports libevent, HHVM. http://www.workerman.net
+
+* `PHP`
+* `Framework`
+* `FastDevelopment`
+
+
+
+<img src="https://camo.githubusercontent.com/3d5d315ccbd8113ff0be22cd97f6bfd75773174f/687474703a2f2f7777772e776f726b65726d616e2e6e65742f696d672f776f726b65726d616e2d73746172742e706e67" width="500">
+<img src="https://camo.githubusercontent.com/431d5e3fc8bdda83ac271d2d6ff70837a1d5944b/687474703a2f2f7777772e776f726b65726d616e2e6e65742f696d672f776f726b65726d616e2d7374617475732e706e673f613d313233" width="500">
+
+#### Demo
+
+##### [tadpole](http://kedou.workerman.net/)  
+[Live demo](http://kedou.workerman.net/)  
+[Source code](https://github.com/walkor/workerman)  
+![workerman todpole](http://www.workerman.net/img/workerman-todpole.png)  
+
+##### [BrowserQuest](http://www.workerman.net/demos/browserquest/)   
+[Live demo](http://www.workerman.net/demos/browserquest/)  
+[Source code](https://github.com/walkor/BrowserQuest-PHP)  
+![BrowserQuest width workerman](http://www.workerman.net/img/browserquest.jpg) 
+
+##### [web vmstat](http://www.workerman.net/demos/vmstat/)   
+[Live demo](http://www.workerman.net/demos/vmstat/)  
+[Source code](https://github.com/walkor/workerman-vmstat)  
+![web vmstat](http://www.workerman.net/img/workerman-vmstat.png)   
+
+##### [live-ascii-camera](https://github.com/walkor/live-ascii-camera)   
+[Live demo camera page](http://www.workerman.net/demos/live-ascii-camera/camera.html)  
+[Live demo receive page](http://www.workerman.net/demos/live-ascii-camera/)  
+[Source code](https://github.com/walkor/live-ascii-camera)  
+![live-ascii-camera](http://www.workerman.net/img/live-ascii-camera.png)   
+
+##### [live-camera](https://github.com/walkor/live-camera)   
+[Live demo camera page](http://www.workerman.net/demos/live-camera/camera.html)  
+[Live demo receive page](http://www.workerman.net/demos/live-camera/)  
+[Source code](https://github.com/walkor/live-camera)  
+![live-camera](http://www.workerman.net/img/live-camera.jpg)  
+
+##### [chat room](http://chat.workerman.net/)  
+[Live demo](http://chat.workerman.net/)  
+[Source code](https://github.com/walkor/workerman-chat)  
+![workerman-chat](http://www.workerman.net/img/workerman-chat.png)  
+
+##### [PHPSocket.IO](https://github.com/walkor/phpsocket.io)  
+[Live demo](http://www.workerman.net/demos/phpsocketio-chat/)  
+[Source code](https://github.com/walkor/phpsocket.io)  
+![phpsocket.io](http://www.workerman.net/img/socket.io.png)  
+
+##### [statistics](http://www.workerman.net:55757/)  
+[Live demo](http://www.workerman.net:55757/)  
+[Source code](https://github.com/walkor/workerman-statistics)  
+![workerman-statistics](http://www.workerman.net/img/workerman-statistics.png)  
+
+##### [flappybird](http://workerman.net/demos/flappy-bird/)  
+[Live demo](http://workerman.net/demos/flappy-bird/)  
+[Source code](https://github.com/walkor/workerman-flappy-bird)  
+![workerman-statistics](http://www.workerman.net/img/workerman-flappy-bird.png)  
+
+##### [jsonRpc](https://github.com/walkor/workerman-JsonRpc)  
+[Source code](https://github.com/walkor/workerman-JsonRpc)  
+![workerman-jsonRpc](http://www.workerman.net/img/workerman-json-rpc.png)  
+
+##### [thriftRpc](https://github.com/walkor/workerman-thrift)  
+[Source code](https://github.com/walkor/workerman-thrift)  
+![workerman-thriftRpc](http://www.workerman.net/img/workerman-thrift.png)  
+
+##### [web-msg-sender](https://github.com/walkor/web-msg-sender)  
+[Live demo send page](http://workerman.net:3333/)  
+[Live demo receive page](http://workerman.net/web-msg-sender.html)  
+[Source code](https://github.com/walkor/web-msg-sender)  
+![web-msg-sender](http://www.workerman.net/img/web-msg-sender.png)  
+
+##### [shadowsocks-php](https://github.com/walkor/shadowsocks-php)
+[Source code](https://github.com/walkor/shadowsocks-php)  
+![shadowsocks-php](http://www.workerman.net/img/shadowsocks-php.png)  
+
+##### [queue](https://github.com/walkor/workerman-queue)
+[Source code](https://github.com/walkor/workerman-queue)  
+
+
+
+### [AndroidAsync](https://github.com/koush/AndroidAsync)
+
+Asynchronous socket, http (client+server), websocket, and socket.io library for android. Based on nio, not threads.
+
+* `Android`
+* `Socket`
+* `Http`
+* `Server`
+
+
+### [ion](https://github.com/koush/ion)
+
+
+Android Asynchronous Networking and Image Loading
+
+* `Android`
+* `Image`
+* `Http`
+* `Socket`
+
+<img src="https://github.com/koush/ion/raw/master/ion-sample/ion-sample.png" width="500">
+
+### [jitsi-android](https://github.com/jitsi/jitsi-android)
+
+Jitsi for Android is an Android port of the Jitsi project: The most feature-rich communicator with support for encrypted audio/video, chat and presence over SIP and XMPP
+
+* `Android`
+* `XMPP`
+
+
+### [ChatSecure](https://github.com/ChatSecure)
+
+Free and open source encrypted chat for iPhone and Android. XMPP
+
+* [`Android`](https://github.com/ChatSecure/ChatSecure-Push-Android)
+* `XMPP`
+* `ChatSecure`
+* `Swift`
+* [`IOS`](https://github.com/ChatSecure/ChatSecure-iOS)
+* [`Server`](https://github.com/ChatSecure/ChatSecure-Push-Server)
+* `PUSH`
+* [`Framework`](https://github.com/ChatSecure/XMPPFramework)
+
+
+<img src="https://camo.githubusercontent.com/b61b47d8b4a8b9e4e9df5cabeb033efabe4e7b51/68747470733a2f2f7777772e7472616e73696665782e636f6d2f70726f6a656374732f702f636861747365637572652f7265736f757263652f737472696e67732f63686172742f696d6167655f706e67" width="300">
+
+
 
 ### [androidannotations](https://github.com/stars?direction=desc&page=9&sort=created)
 
