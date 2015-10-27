@@ -15,6 +15,7 @@
 * `IOS`
 * `Server`
 * `PHP`
+* `Html5`
 
 ### Project type
 * `APP`
@@ -46,8 +47,29 @@
 * `Download`
 * `Crash`
 * `Image`
+* `Hardware`
+* `Multimedia` (多媒体)
 
 ## Project
+
+### [VitamioBundle](https://github.com/yixia/VitamioBundle)
+
+Vitamio for Android (DEPRECATED) http://www.vitamio.org/en/
+
+* `Android`
+* `IOS`
+* `Swift`
+* `Framework`
+* `Hardware`
+* `Multimedia`
+
+### [workerman-todpole](https://github.com/walkor/workerman-todpole)
+
+小蝌蚪聊天室-HTLM5+WebSocket+PHP(Workerman) , rumpetroll server writen using php
+
+* `PHP`
+* `Html5`
+
 
 ### [Workerman](https://github.com/walkor/Workerman)
 
