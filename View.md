@@ -37,6 +37,18 @@
 
 ## Project
 
+### [RoundedImageView](https://github.com/vinc3m1/RoundedImageView)
+
+A fast ImageView that supports rounded corners, ovals, and circles.
+
+* `Android`
+* `ImageView`
+* `Circle`
+
+<img src="https://camo.githubusercontent.com/ed1e075be6ed97fa9091d3702e9b96d3e85b7a35/68747470733a2f2f7261772e6769746875622e636f6d2f6d616b6572616d656e2f526f756e646564496d616765566965772f6d61737465722f73637265656e73686f742e706e67" width="250">
+<img src="https://camo.githubusercontent.com/d4970a90842c50a708f94b7bd996657c41ab62fb/68747470733a2f2f7261772e6769746875622e636f6d2f6d616b6572616d656e2f526f756e646564496d616765566965772f6d61737465722f73637265656e73686f742d6f76616c2e706e67" width="250">
+
+
 ### [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager)
 
 An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers, two more steps, and you're good to go!
