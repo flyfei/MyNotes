@@ -37,6 +37,7 @@
 * `Email`
 * `XMPP`
 * `PUSH`
+* `DynamicLoad` (动态加载、apk插件)
 
 
 ### Other
@@ -49,8 +50,45 @@
 * `Image`
 * `Hardware`
 * `Multimedia` (多媒体)
+* `XML`
+* `JSON`
+* `Update`
 
 ## Project
+
+### [AndroidPatchUpdate](https://github.com/JackCho/AndroidPatchUpdate)
+
+纳尼？慢着！你说Android可以补丁更新，我读书不多，不要骗我。给我说道说道，保证打不死你。命令和测试apk在bsdiff_bspatch文件夹
+
+类似Google I/O 上提及的 Smart App update，应用增量更新机制
+
+* `Android`
+* `Update`
+
+
+### [jackson-core](https://github.com/FasterXML/jackson-core)
+
+Core part of Jackson that defines Streaming API as well as basic shared abstractions http://wiki.fasterxml.com/JacksonHome
+
+xml,json,csv格式转换
+
+* `Android`
+* `XML`
+* `JSON`
+
+
+### [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
+
+DL : dynamic load framework in android http://blog.csdn.net/singwhatiwanna/article/details/40283117
+
+* `Android`
+* `DynamicLoad`
+* `Framework`
+
+DL : Apk动态加载框架
+
+<img src="https://camo.githubusercontent.com/0030c15b788a9880ff3f33de7ac1cb7304b21cd4/687474703a2f2f7777772e72656e797567616e672e636e2f7265736f75726365732f696d6167652f444c2e706e67" width="400">
+
 
 ### [VitamioBundle](https://github.com/yixia/VitamioBundle)
 

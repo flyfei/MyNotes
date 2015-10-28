@@ -30,13 +30,53 @@
 * `Banner`
 * `Discrollview`(实现在滚动Android界面时，界面的部件会逐渐淡出、平移或者缩放。)
 * `ViewPager`
+* `ListView`
+* `Adapter`
+* `SwipeRefreshLayout`
 
 
 * `Animation`
 
+### 效果
+
+* `Loading`
 
 ## Project
 
+### [SwipeRefreshLayoutDemo](https://github.com/stormzhang/SwipeRefreshLayoutDemo)
+
+SwipeRefreshLayout demo (Google官方下拉刷新组件) http://stormzhang.github.io/android/2014/03/29/android-swiperefreshlayout/
+
+* `Android`
+* `SwipeRefreshLayout`
+* `Loading`
+* `Google`
+
+<img src="https://camo.githubusercontent.com/9c0181efd67b9b7f080a1526311eba64485539c2/687474703a2f2f73746f726d7a68616e672e6769746875622e696f2f696d6167652f5377697065526566726573684c61796f75742e676966" width="250">
+<img src="https://camo.githubusercontent.com/736dc88d160cc23793bc8193bbbe7b9009d5501e/687474703a2f2f7777332e73696e61696d672e636e2f626d6964646c652f3564343330393737677731656c6b357237736b73756732306234306a726232392e676966" width="250">
+
+
+### [MultiChoiceAdapter](https://github.com/ManuelPeinado/MultiChoiceAdapter)
+
+Android - A ListView adapter with support for multiple choice modal selection
+
+* `Android`
+* `Adapter`
+
+(API 11+)
+
+<img src="https://camo.githubusercontent.com/26a140fd60d3823a5cf2264755e2dd5374627a9d/68747470733a2f2f7261772e6769746875622e636f6d2f4d616e75656c5065696e61646f2f4d756c746943686f696365416461707465722f6d61737465722f6172742f726561646d655f7069632e706e67" width="500">
+
+### [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar)
+
+Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app
+
+* `Android`
+* `ActionBar`
+
+(API 11+)
+
+<img src="https://camo.githubusercontent.com/4fb0e40bdb047be104b2cefddee62923b8a2da37/68747470733a2f2f7261772e6769746875622e636f6d2f4d616e75656c5065696e61646f2f466164696e67416374696f6e4261722f6d61737465722f6172742f726561646d655f7069632e706e67" width="500">
 
 ### [RoundedImageView](https://github.com/vinc3m1/RoundedImageView)
 
@@ -46,8 +86,8 @@ A fast ImageView that supports rounded corners, ovals, and circles.
 * `ImageView`
 * `Circle`
 
-<img src="https://camo.githubusercontent.com/ed1e075be6ed97fa9091d3702e9b96d3e85b7a35/68747470733a2f2f7261772e6769746875622e636f6d2f6d616b6572616d656e2f526f756e646564496d616765566965772f6d61737465722f73637265656e73686f742e706e67" width="250">
-<img src="https://camo.githubusercontent.com/d4970a90842c50a708f94b7bd996657c41ab62fb/68747470733a2f2f7261772e6769746875622e636f6d2f6d616b6572616d656e2f526f756e646564496d616765566965772f6d61737465722f73637265656e73686f742d6f76616c2e706e67" width="250">
+<img src="https://camo.githubusercontent.com/ed1e075be6ed97fa9091d3702e9b96d3e85b7a35/68747470733a2f2f7261772e6769746875622e636f6d2f6d616b6572616d656e2f526f756e646564496d616765566965772f6d61737465722f73637265656e73686f742e706e67" width="200">
+<img src="https://camo.githubusercontent.com/d4970a90842c50a708f94b7bd996657c41ab62fb/68747470733a2f2f7261772e6769746875622e636f6d2f6d616b6572616d656e2f526f756e646564496d616765566965772f6d61737465722f73637265656e73686f742d6f76616c2e706e67" width="200">
 
 
 ### [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager)
