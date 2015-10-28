@@ -34,7 +34,6 @@
 * `Adapter`
 * `SwipeRefreshLayout`
 
-
 * `Animation`
 
 ### 效果

@@ -56,6 +56,21 @@
 
 ## Project
 
+### [AndroidVideoView](https://github.com/JackCho/AndroidVideoView)
+
+Android Custom VideoView
+
+* `Android`
+* `Multimedia`
+
+**功能介绍**
+
+Android自定义全屏VideoView，仿主流视频客户端，左右滑屏快退快进
+上下滑屏，手指在左半屏时，调整亮度
+上下滑屏，手指在右半屏时，调整音量
+横竖屏无缝自动切换
+
+
 ### [AndroidPatchUpdate](https://github.com/JackCho/AndroidPatchUpdate)
 
 纳尼？慢着！你说Android可以补丁更新，我读书不多，不要骗我。给我说道说道，保证打不死你。命令和测试apk在bsdiff_bspatch文件夹
