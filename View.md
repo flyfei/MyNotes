@@ -35,12 +35,24 @@
 * `SwipeRefreshLayout`
 
 * `Animation`
+* `Chart` (统计图)
 
 ### 效果
 
 * `Loading`
 
 ## Project
+
+### [WilliamChart](https://github.com/diogobernardino/WilliamChart)
+
+Android library to create charts.
+
+* `Android`
+* `Chart`
+
+It has been tested in Android 2.2 and above.
+
+<img src="https://github.com/diogobernardino/WilliamChart/raw/master/art/demo2.gif" width="250">
 
 ### [SwipeRefreshLayoutDemo](https://github.com/stormzhang/SwipeRefreshLayoutDemo)
 
