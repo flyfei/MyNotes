@@ -56,6 +56,16 @@
 
 ## Project
 
+### [KJFrameForAndroid](https://github.com/kymjs/KJFrameForAndroid)
+
+An Android library and includes ActivityFrame, KJHttp, KJBitmap, KJDataBase. KJFrameForAndroid is designed to wrap complexity of the Android native SDK and keep things simple. http://www.kymjs.com/works
+
+* `Android`
+* `Framework`
+* `DB`
+* `Http`
+* `Image`
+
 ### [AndroidVideoView](https://github.com/JackCho/AndroidVideoView)
 
 Android Custom VideoView
