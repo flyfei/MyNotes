@@ -53,8 +53,16 @@
 * `XML`
 * `JSON`
 * `Update`
+* `ZXing`
 
 ## Project
+
+### [zbar](https://github.com/yiyuanlu/zbar)
+
+modify zbar source (fa84e0427c24-2012-06-05) for support chinese decode http://zbar.hg.sourceforge.net/hgweb/zbar/zbar/
+
+* `Android`
+* `ZXing`
 
 ### [KJFrameForAndroid](https://github.com/kymjs/KJFrameForAndroid)
 
