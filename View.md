@@ -18,6 +18,7 @@
 * `PullToRefresh`
 * `CustomView`
 * `Button`
+* `ToggleButton`开关
 * `Widgets`
 * `Dialog`
 * `Notification`
@@ -43,6 +44,16 @@
 * `图片特效/处理`
 
 ## Project
+
+### [ToggleButton](https://github.com/zcweng/ToggleButton)
+
+ToggleButton Widget For Android Dev
+
+* `Android`
+* `ToggleButton`
+* `Button`
+
+<img src="https://github.com/zcweng/ToggleButton/raw/master/ToggleButtonSample/21879.gif" width="300">
 
 ### [android-stackblur](https://github.com/kikoso/android-stackblur)
 
