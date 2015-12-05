@@ -38,6 +38,7 @@
 * `XMPP`
 * `PUSH`
 * `DynamicLoad` (动态加载、apk插件)
+* `引导`
 
 
 ### Other
@@ -56,6 +57,19 @@
 * `ZXing`
 
 ## Project
+
+### [ShowcaseView](https://github.com/amlcurran/ShowcaseView)
+
+Highlight the best bits of your app to users quickly, simply, and cool...ly
+
+* `Android`
+* `引导`
+
+API LEVEL 11+
+
+<img src="https://github.com/amlcurran/ShowcaseView/raw/master/example2@2x.png" width="400">
+<img src="https://github.com/amlcurran/ShowcaseView/raw/master/example@2x.png" width="400">
+<img src="https://github.com/amlcurran/ShowcaseView/raw/master/material.png" width="400">
 
 ### [zbar](https://github.com/yiyuanlu/zbar)
 
